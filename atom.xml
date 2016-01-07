@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[wxlfengfei's blog]]></title>
+  <title><![CDATA[fengfei's blog]]></title>
   <subtitle><![CDATA[Pirate Woo]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
@@ -8,7 +8,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name><![CDATA[wuxinlu]]></name>
+    <name><![CDATA[Xinlu Wu]]></name>
     
   </author>
   
